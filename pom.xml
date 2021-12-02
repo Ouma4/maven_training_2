@@ -10,7 +10,7 @@
        <modules>
            <module>sample</module>
        </modules>
-        
+
         <id>with-tests</id>
     </profile></profiles>
     <artifactId>lernejo-tester-reactor</artifactId>
